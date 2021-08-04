@@ -1,5 +1,5 @@
 # Technologies for Learning and Teaching - TLT 
-# CANVAS LTI Project - 2021 
+# CANVAS Dashboard Project - 2021 
 
 
 ## Table of contents
