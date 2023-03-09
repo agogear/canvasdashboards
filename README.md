@@ -1,5 +1,5 @@
 # Technologies for Learning and Teaching - TLT 
-# CANVAS Dashboard Project - 2022 
+# IntelliJourney Project - 2023 
 
 
 ## Table of contents
